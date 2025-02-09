@@ -1,0 +1,766 @@
+GID,DATE,VENDOR,STAGE,FEEDBACK_AREA,SOURCE,FEEDBACK_TYPE,CRITICALITY,ACTION_TAKEN_BY_VENDOR,instance,ID
+SCI,2023-12-05,Alpha Press,Binding,Illustrations,Internal,Negative,Medium,Addressed,1,SCI2312051
+POE,2024-11-04,Beta books,Typesetting,Body Text,External,Negative,High,Pending,1,POE2411041
+POE,2023-01-10,Beta Books,Typesetting,Front Cover,Internal,Negative,Low,Revised,1,POE2301101
+FIC,2024-04-03,Thomson Press,Typesetting,Front Cover,Internal,Negative,Medium,Rejected,1,FIC2404031
+COM,2023-12-20,alpha press,Proofreading,Back Cover,Internal,Negative,Medium,Addressed,1,COM2312201
+THR,2024-03-04,Thomson Press,Manuscript,Illustrations,Internal,Negative,Medium,Pending,1,THR2403041
+ROM,2023-03-02,Beta books,Manuscript,Front Cover,Internal,Negative,Medium,Addressed,1,ROM2303021
+POE,2023-04-03,Alpha Press,Printing,Body Text,Internal,Negative,Medium,Rejected,1,POE2304031
+THR,2023-04-17,alpha press,Manuscript,Reference Section,External,Negative,Medium,Pending,1,THR2304171
+COM,2023-08-21,Epsilon Ltd.,Proofreading,Back Cover,Internal,Negative,Low,Accepted,1,COM2308211
+THR,2023-04-19,AlBe Publishing,Typesetting,Reference Section,External,Negative,Low,,1,THR2304191
+ROM,2024-09-16,Beta books,Printing,Index,External,Negative,Medium,Addressed,1,ROM2409161
+ROM,2024-09-26,Epsilon Ltd.,Proofreading,Index,Internal,Negative,Low,Pending,1,ROM2409261
+HIS,2023-06-26,Epsilon Ltd.,Printing,Reference Section,Internal,Negative,Medium,Pending,1,HIS2306261
+ROM,2023-08-12,Epsilon Ltd.,Proofreading,Front Cover,External,Negative,High,Accepted,1,ROM2308121
+POE,2024-09-28,Gamma Publishing,Proofreading,Illustrations,Internal,Negative,Low,Revised,1,POE2409281
+BIO,2023-04-08,Beta books,Manuscript,Reference Section,Internal,Negative,High,Accepted,1,BIO2304081
+THR,2024-07-28,Thomson Press,Binding,Illustrations,External,Negative,High,Pending,1,THR2407281
+SCI,2024-01-21,Thomson Press,Proofreading,Index,Internal,Negative,Low,Revised,1,SCI2401211
+HIS,2023-01-05,Gamma Publishing,Manuscript,front cover,Internal,Negative,Medium,Revised,1,HIS2301051
+FIC,2024-08-20,Delta Inc.,Manuscript,Index,Internal,Negative,Low,Pending,1,FIC2408201
+POE,2024-04-14,Alpha Press,Typesetting,Back Cover,Internal,Negative,Low,Accepted,1,POE2404141
+POE,2024-11-18,alpha press,Manuscript,Back Cover,Internal,Negative,Medium,Accepted,1,POE2411181
+BIO,2023-01-07,AlBe Publishing,Typesetting,Back Cover,External,Negative,High,Accepted,1,BIO2301071
+THR,2024-10-31,alpha press,Printing,Illustrations,Internal,Negative,Low,Revised,1,THR2410311
+POE,2023-10-07,Alpha Press,Manuscript,Reference Section,Internal,Negative,Low,Revised,1,POE2310071
+BIO,2023-11-20,Gamma Publishing,Typesetting,Reference Section,Internal,Negative,Medium,Revised,1,BIO2311201
+BIO,2023-04-04,Delta Inc.,Printing,Front Cover,External,Negative,High,Addressed,1,BIO2304041
+COM,2023-06-27,Gamma Publishing,Manuscript,Front Cover,External,Negative,High,Addressed,1,COM2306271
+THR,2023-02-08,alpha press,Typesetting,Illustrations,Internal,Negative,Low,Revised,1,THR2302081
+THR,2024-10-09,Alpha Press,Typesetting,Body,Internal,Negative,Low,Rejected,1,THR2410091
+HIS,2023-03-13,Epsilon Ltd.,Proofreading,Back Cover,Internal,Negative,Low,Addressed,1,HIS2303131
+COM,2023-05-01,Epsilon Ltd.,Printing,Index,Internal,Negative,High,Rejected,1,COM2305011
+POE,2023-08-27,Beta books,Binding,Back Cover,External,Negative,High,Accepted,1,POE2308271
+BIO,2023-02-02,Beta books,Proofreading,Front Cover,External,Negative,Low,Addressed,1,BIO2302021
+COM,2023-09-06,Beta Books,Typesetting,Front Cover,External,Negative,Low,Accepted,1,COM2309061
+BIO,2024-07-10,Beta books,Proofreading,Reference Section,Internal,Negative,Low,Revised,1,BIO2407101
+ROM,2023-04-23,Alpha Press,Proofreading,Front Cover,Internal,Negative,Medium,Accepted,1,ROM2304231
+COM,2024-12-23,Gamma Publishing,Printing,Index,External,Negative,High,Accepted,1,COM2412231
+COM,2023-08-14,Alpha Press,Binding,Body Text,Internal,Negative,High,Rejected,1,COM2308141
+FIC,2024-03-08,Thomson Press,Typesetting,Index,External,Negative,High,Pending,1,FIC2403081
+THR,2024-05-23,Gamma Publishing,Proofreading,Front Cover,External,Negative,High,Rejected,1,THR2405231
+BIO,2023-01-11,Epsilon Ltd.,Typesetting,Body Text,External,Negative,Low,Revised,1,BIO2301111
+HIS,2024-09-16,Epsilon Ltd.,Printing,Front Cover,Internal,Negative,High,Addressed,2,HIS2409162
+THR,2024-05-16,Thomson Press,Printing,Reference Section,Internal,Negative,Low,Pending,1,THR2405161
+ROM,2023-09-24,Thomson Press,Typesetting,Back Cover,Internal,Negative,High,Accepted,1,ROM2309241
+POE,2023-12-02,Alpha Press,Typesetting,Index,External,Negative,Medium,Revised,1,POE2312021
+ROM,2023-11-23,AlBe Publishing,Printing,Index,Internal,Negative,Low,Rejected,1,ROM2311231
+THR,2023-08-26,alpha press,Typesetting,Front Cover,External,Negative,High,Addressed,1,THR2308261
+ROM,2024-08-29,Thomson Press,Printing,Index,External,Negative,High,Rejected,1,ROM2408291
+POE,2023-11-21,alpha press,Typesetting,Illustrations,Internal,Negative,Medium,Addressed,1,POE2311211
+POE,2024-11-04,alpha press,proof reading,Index,Internal,Negative,Low,Revised,2,POE2411042
+THR,2024-12-16,Alpha Press,Printing,Front Cover,External,Negative,High,Addressed,1,THR2412161
+POE,2023-02-04,AlBe Publishing,Typesetting,Reference Section,Internal,Negative,Low,Pending,1,POE2302041
+THR,2020-01-01,Beta books,Manuscript,Back Cover,Internal,Negative,High,Revised,1,THR2311111
+HIS,2024-07-28,Beta Books,Printing,Index,External,Negative,High,Pending,2,HIS2407282
+POE,2023-02-01,Gamma Publishing,Manuscript,Reference Section,Internal,Negative,High,Addressed,1,POE2302011
+HIS,2024-10-02,Beta books,Manuscript,Body Text,Internal,Negative,High,Accepted,1,HIS2410021
+SCI,2023-03-24,Thomson Press,Binding,front cover,External,Negative,Low,Pending,1,SCI2303241
+ROM,2024-01-17,Thomson Press,Binding,Back Cover,Internal,Negative,Low,Pending,1,ROM2401171
+COM,2024-11-09,Epsilon Ltd.,Binding,Illustrations,External,Negative,Low,Accepted,1,COM2411091
+BIO,2024-05-05,AlBe Publishing,Proofreading,Back Cover,Internal,Negative,Medium,Addressed,1,BIO2405051
+SCI,2023-02-28,Beta Books,Manuscript,Reference Section,Internal,Negative,Low,Addressed,1,SCI2302281
+ROM,2023-01-23,Alpha Press,Typesetting,Back Cover,External,Negative,Medium,Rejected,1,ROM2301231
+FIC,2023-06-17,Epsilon Ltd.,Typesetting,Illustrations,Internal,Negative,High,Rejected,1,FIC2306171
+BIO,2024-05-22,Epsilon Ltd.,Binding,Reference Section,Internal,Negative,Low,Revised,1,BIO2405221
+POE,2024-01-05,AlBe Publishing,Proofreading,Front Cover,Internal,Negative,Medium,Revised,1,POE2401051
+HIS,2023-11-29,AlBe Publishing,Proofreading,Body Text,Internal,Negative,Medium,Accepted,1,HIS2311291
+THR,2024-11-22,Delta Inc.,Typesetting,Back Cover,Internal,Negative,Low,Revised,1,THR2411221
+COM,2023-05-07,alpha press,Typesetting,Back Cover,Internal,Negative,High,Rejected,1,COM2305071
+COM,2023-07-20,Delta Inc.,Typesetting,Front Cover,Internal,Negative,Low,Accepted,1,COM2307201
+SCI,2023-05-17,Beta Books,Printing,Back Cover,Internal,Negative,High,Revised,1,SCI2305171
+FIC,2024-02-24,Delta Inc.,Typesetting,Back Cover,External,Negative,Low,Accepted,2,FIC2402242
+COM,2024-08-11,Gamma Publishing,Printing,Front Cover,Internal,Negative,Medium,Revised,2,COM2408112
+SCI,2023-08-11,Delta Inc.,Typesetting,Illustrations,External,Negative,Low,Accepted,1,SCI2308111
+BIO,2020-01-01,AlBe Publishing,Typesetting,Body Text,Internal,Negative,High,Accepted,1,BIO2410081
+SCI,2023-07-05,Thomson Press,Typesetting,Illustrations,External,Negative,Medium,Revised,1,SCI2307051
+COM,2023-07-25,Thomson Press,Manuscript,Front Cover,Internal,Positive,High,Pending,1,COM2307251
+ROM,2023-07-24,Delta Inc.,Manuscript,Body Text,External,Negative,Medium,Accepted,1,ROM2307241
+HIS,2023-05-10,Beta books,Proofreading,Index,Internal,Negative,Low,Rejected,1,HIS2305101
+ROM,2024-07-09,Epsilon Ltd.,Proofreading,Illustrations,External,Negative,Low,Pending,1,ROM2407091
+COM,2024-08-26,AlBe Publishing,Manuscript,Reference Section,External,Negative,Medium,Pending,1,COM2408261
+POE,2023-02-14,Gamma Publishing,Manuscript,Illustrations,External,Negative,Medium,Rejected,1,POE2302141
+HIS,2023-10-03,AlBe Publishing,Proofreading,front cover,External,Negative,Low,Pending,1,HIS2310031
+ROM,2023-02-09,AlBe Publishing,Proofreading,Body Text,Internal,Negative,Low,Accepted,2,ROM2302092
+HIS,2024-09-04,AlBe Publishing,Manuscript,Back Cover,External,Positive,Medium,Accepted,2,HIS2409042
+COM,2023-02-09,Alpha Press,Manuscript,Index,Internal,Negative,Medium,Revised,3,COM2302093
+COM,2023-02-28,Beta Books,Proofreading,Index,Internal,Negative,Low,Rejected,2,COM2302282
+FIC,2023-03-19,Beta books,Typesetting,Body Text,External,Negative,Low,Rejected,1,FIC2303191
+HIS,2023-03-26,AlBe Publishing,Printing,Front Cover,Internal,Negative,Medium,Revised,1,HIS2303261
+THR,2023-02-03,Alpha Press,Manuscript,Index,External,Negative,High,Revised,2,THR2302032
+SCI,2024-06-16,Gamma Publishing,Typesetting,Front Cover,External,Negative,Low,Rejected,1,SCI2406161
+BIO,2023-03-16,alpha press,Typesetting,Index,External,Negative,Medium,Revised,1,BIO2303161
+POE,2023-07-28,Delta Inc.,Printing,Reference Section,External,Negative,Medium,Rejected,1,POE2307281
+HIS,2024-02-26,Delta Inc.,Manuscript,Front Cover,Internal,Negative,Medium,Accepted,1,HIS2402261
+THR,2023-11-17,Beta books,Binding,Body Text,Internal,Negative,High,Rejected,1,THR2311171
+ROM,2024-10-29,Beta Books,Binding,Illustrations,Internal,Negative,High,Accepted,1,ROM2410291
+FIC,2023-08-31,AlBe Publishing,Typesetting,Body Text,External,Negative,High,Addressed,1,FIC2308311
+FIC,2023-12-18,Delta Inc.,Binding,Front Cover,External,Negative,High,Addressed,1,FIC2312181
+SCI,2024-07-14,Epsilon Ltd.,Binding,Illustrations,External,Negative,Low,Accepted,1,SCI2407141
+SCI,2024-09-30,Beta Books,Typesetting,Body Text,External,Negative,High,Accepted,1,SCI2409301
+COM,2023-06-24,Alpha Press,Proofreading,front cover,External,Negative,Low,Accepted,1,COM2306241
+COM,2024-10-02,alpha press,Proofreading,Back Cover,External,Negative,Low,Pending,2,COM2410022
+BIO,2024-07-16,AlBe Publishing,Proofreading,Index,Internal,Negative,Medium,Pending,1,BIO2407161
+BIO,2024-05-20,alpha press,Printing,Reference Section,External,Negative,High,Addressed,2,BIO2405202
+COM,2023-12-08,Alpha Press,Typesetting,Illustrations,External,Negative,High,Accepted,1,COM2312081
+ROM,2024-01-09,Beta Books,Printing,Index,External,Negative,High,Rejected,1,ROM2401091
+POE,2023-05-01,Delta Inc.,Proofreading,Illustrations,Internal,Negative,Low,Accepted,2,POE2305012
+HIS,2023-10-02,Beta books,Proofreading,Illustrations,External,Negative,Medium,Rejected,1,HIS2310021
+HIS,2024-03-20,alpha press,Typesetting,Index,External,Negative,Medium,Accepted,1,HIS2403201
+SCI,2023-07-12,Beta Books,Binding,Body Text,External,Negative,Low,Revised,1,SCI2307121
+BIO,2024-05-13,AlBe Publishing,Typesetting,Front Cover,External,Negative,Low,Rejected,1,BIO2405131
+BIO,2023-11-18,alpha press,Manuscript,Reference Section,Internal,Positive,Medium,Rejected,1,BIO2311181
+ROM,2023-06-22,Delta Inc.,Typesetting,Index,External,Negative,Medium,Addressed,1,ROM2306221
+COM,2024-01-11,Epsilon Ltd.,Binding,Back Cover,Internal,Positive,High,Pending,1,COM2401111
+THR,2024-10-22,Gamma Publishing,Binding,Body Text,External,Negative,High,Rejected,1,THR2410221
+FIC,2024-04-23,AlBe Publishing,Typesetting,Body Text,Internal,Negative,Low,Accepted,1,FIC2404231
+HIS,2023-01-27,alpha press,Proofreading,Back Cover,External,Negative,High,Pending,1,HIS2301271
+ROM,2023-07-20,Epsilon Ltd.,Binding,Index,External,Negative,Medium,Pending,2,ROM2307202
+POE,2023-05-03,Gamma Publishing,Manuscript,Reference Section,Internal,Negative,Low,Revised,1,POE2305031
+ROM,2024-06-12,Gamma Publishing,Proofreading,Index,Internal,Negative,High,,1,ROM2406121
+BIO,2023-03-25,Gamma Publishing,Typesetting,Front Cover,External,Negative,Medium,Addressed,1,BIO2303251
+FIC,2023-04-04,alpha press,Manuscript,Front Cover,Internal,Negative,Low,Pending,2,FIC2304042
+POE,2024-05-03,Thomson Press,Typesetting,Back Cover,External,Negative,Low,Accepted,1,POE2405031
+THR,2024-04-05,alpha press,Proofreading,Reference Section,Internal,Negative,Low,Addressed,1,THR2404051
+THR,2024-11-13,Beta books,Proofreading,Body Text,Internal,Negative,Low,Accepted,1,THR2411131
+SCI,2024-04-11,alpha press,Manuscript,Front Cover,External,Negative,Low,Rejected,1,SCI2404111
+SCI,2024-09-08,Beta books,Binding,Back Cover,Internal,Negative,High,Accepted,2,SCI2409082
+THR,2024-07-29,Thomson Press,Binding,Front Cover,Internal,Negative,Medium,Accepted,1,THR2407291
+FIC,2024-08-25,Thomson Press,Printing,Reference Section,External,Negative,Medium,Accepted,1,FIC2408251
+BIO,2023-05-08,alpha press,Printing,Illustrations,Internal,Negative,Low,Addressed,1,BIO2305081
+POE,2023-05-19,Delta Inc.,Proofreading,Illustrations,External,Negative,Low,Revised,1,POE2305191
+FIC,2024-12-16,Epsilon Ltd.,Binding,Front Cover,External,Negative,High,Rejected,2,FIC2412162
+ROM,2023-10-30,Gamma Publishing,Binding,Body Text,External,Negative,Medium,Addressed,1,ROM2310301
+ROM,2023-09-19,Beta Books,Printing,Front Cover,Internal,Negative,Low,Revised,1,ROM2309191
+COM,2024-07-09,Thomson Press,Binding,Front Cover,External,Negative,Medium,Rejected,2,COM2407092
+FIC,2024-04-13,Epsilon Ltd.,Printing,Back Cover,Internal,Negative,High,Revised,1,FIC2404131
+COM,2023-07-13,AlBe Publishing,Printing,Back Cover,Internal,Negative,High,Rejected,1,COM2307131
+ROM,2023-07-15,AlBe Publishing,proof reading,Illustrations,External,Negative,Medium,Revised,1,ROM2307151
+HIS,2023-08-30,Delta Inc.,Proofreading,Front Cover,Internal,Negative,Medium,Accepted,1,HIS2308301
+ROM,2023-07-16,Delta Inc.,Printing,Index,External,Negative,High,Accepted,1,ROM2307161
+THR,2024-10-10,alpha press,Printing,Body Text,External,Negative,Low,Accepted,2,THR2410102
+ROM,2023-05-17,Delta Inc.,Binding,Reference Section,Internal,Negative,Medium,Accepted,3,ROM2305173
+HIS,2023-06-02,Gamma Publishing,Typesetting,Index,Internal,Negative,High,,1,HIS2306021
+HIS,2024-08-11,Beta books,Printing,Index,Internal,Negative,Medium,Pending,3,HIS2408113
+BIO,2023-08-15,Epsilon Ltd.,Binding,Illustrations,Internal,Negative,High,Pending,1,BIO2308151
+THR,2024-05-25,Gamma Publishing,Binding,Body Text,External,Negative,Low,Pending,1,THR2405251
+COM,2023-03-27,Beta Books,Proofreading,front cover,External,Negative,Low,Addressed,2,COM2303272
+HIS,2024-02-26,Delta Inc.,Typesetting,Body Text,Internal,Negative,Medium,Revised,2,HIS2402262
+COM,2023-04-01,Alpha Press,Binding,Body Text,External,Negative,Low,Accepted,1,COM2304011
+FIC,2023-11-23,Beta Books,Typesetting,Illustrations,Internal,Negative,Low,Addressed,2,FIC2311232
+THR,2024-09-14,Beta Books,Binding,Index,External,Negative,High,Accepted,1,THR2409141
+FIC,2024-11-29,Delta Inc.,Proofreading,Index,Internal,Negative,Medium,Rejected,1,FIC2411291
+BIO,2024-06-09,Beta books,Binding,Back Cover,External,Negative,Low,Addressed,1,BIO2406091
+COM,2023-08-12,Beta Books,Binding,Index,Internal,Negative,Low,Rejected,2,COM2308122
+COM,2023-12-27,AlBe Publishing,Manuscript,Illustrations,Internal,Negative,Medium,Pending,1,COM2312271
+COM,2024-09-10,AlBe Publishing,Binding,Reference Section,Internal,Negative,Low,Addressed,2,COM2409102
+FIC,2023-01-05,Alpha Press,Proofreading,Body Text,External,Negative,Medium,Rejected,2,FIC2301052
+COM,2023-08-29,Beta Books,Printing,Front Cover,Internal,Negative,Medium,Accepted,1,COM2308291
+SCI,2020-01-01,Thomson Press,Printing,Back Cover,Internal,Negative,Medium,Rejected,2,SCI2404122
+COM,2024-06-07,Alpha Press,Proofreading,Illustrations,External,Negative,Medium,Accepted,3,COM2406073
+HIS,2023-04-19,AlBe Publishing,Manuscript,Index,External,Negative,High,Accepted,3,HIS2304193
+THR,2023-07-30,Beta books,Printing,Back Cover,External,Negative,High,Pending,2,THR2307302
+ROM,2024-04-19,Beta Books,Manuscript,Body Text,External,Negative,Medium,Rejected,1,ROM2404191
+POE,2023-09-09,Beta Books,Proofreading,Front Cover,Internal,Negative,High,Pending,1,POE2309091
+BIO,2024-01-29,AlBe Publishing,Typesetting,Body Text,External,Negative,Low,,1,BIO2401291
+THR,2023-10-29,AlBe Publishing,Typesetting,Reference Section,Internal,Negative,Medium,Rejected,3,THR2310293
+POE,2024-10-24,Epsilon Ltd.,Manuscript,Front Cover,Internal,Negative,Low,Rejected,2,POE2410242
+POE,2024-02-03,Beta Books,Typesetting,Body Text,External,Negative,Low,Rejected,1,POE2402031
+FIC,2024-10-11,Thomson Press,Binding,Reference Section,External,Negative,High,Revised,1,FIC2410111
+FIC,2023-09-29,Thomson Press,Manuscript,Body Text,External,Negative,Medium,Revised,1,FIC2309291
+BIO,2023-02-07,Delta Inc.,Manuscript,Reference Section,External,Negative,Medium,,1,BIO2302071
+FIC,2023-11-10,Alpha Press,Proofreading,Index,External,Negative,High,Revised,1,FIC2311101
+BIO,2024-07-12,Beta Books,Proofreading,Illustrations,External,Negative,High,Accepted,2,BIO2407122
+COM,2023-11-08,alpha press,Binding,Index,External,Negative,Low,Pending,1,COM2311081
+BIO,2023-02-18,Gamma Publishing,Binding,Reference Section,Internal,Negative,Medium,Rejected,1,BIO2302181
+HIS,2024-05-24,Gamma Publishing,Typesetting,Back Cover,Internal,Negative,Medium,Accepted,1,HIS2405241
+ROM,2023-04-20,AlBe Publishing,Manuscript,Reference Section,Internal,Negative,High,Rejected,2,ROM2304202
+ROM,2020-01-01,Alpha Press,Manuscript,Reference Section,Internal,Negative,Medium,Pending,4,ROM2304194
+THR,2024-05-31,Delta Inc.,Binding,Front Cover,Internal,Negative,Low,Rejected,1,THR2405311
+BIO,2024-05-22,Beta books,Binding,Reference Section,Internal,Negative,Medium,Accepted,2,BIO2405222
+THR,2024-05-04,Beta Books,Typesetting,Back Cover,External,Negative,Low,Rejected,1,THR2405041
+THR,2023-06-19,Delta Inc.,Printing,Body Text,External,Negative,High,Revised,2,THR2306192
+THR,2024-01-23,Gamma Publishing,Manuscript,Front Cover,Internal,Negative,Low,Rejected,1,THR2401231
+THR,2023-05-25,Gamma Publishing,Printing,Index,External,Negative,Low,Revised,1,THR2305251
+COM,2024-11-29,Delta Inc.,Printing,Back Cover,Internal,Negative,Medium,Accepted,2,COM2411292
+SCI,2023-11-02,Beta Books,Proofreading,Illustrations,Internal,Negative,Low,Accepted,1,SCI2311021
+THR,2024-09-12,Beta books,Manuscript,Body Text,Internal,Negative,High,Rejected,2,THR2409122
+HIS,2024-12-03,AlBe Publishing,proof reading,Front Cover,External,Negative,High,Accepted,1,HIS2412031
+COM,2023-07-29,Alpha Press,Manuscript,Front Cover,Internal,Negative,High,Accepted,2,COM2307292
+ROM,2024-11-17,Gamma Publishing,Typesetting,Front Cover,Internal,Negative,Low,Accepted,1,ROM2411171
+ROM,2024-03-07,Delta Inc.,Manuscript,Back Cover,External,Negative,Low,Rejected,1,ROM2403071
+COM,2024-11-19,Thomson Press,Manuscript,Reference Section,Internal,Negative,High,Pending,1,COM2411191
+POE,2024-08-23,alpha press,Manuscript,Illustrations,Internal,Negative,Medium,Accepted,3,POE2408233
+HIS,2023-11-22,Beta books,Binding,Back Cover,External,Negative,High,Revised,1,HIS2311221
+COM,2023-12-16,Delta Inc.,Manuscript,Index,Internal,Negative,High,Revised,2,COM2312162
+BIO,2024-07-20,Beta books,Printing,Body Text,External,Negative,Low,Revised,1,BIO2407201
+FIC,2020-01-01,Beta books,Proofreading,Illustrations,Internal,Negative,Medium,Rejected,1,FIC2409181
+POE,2023-01-01,Gamma Publishing,Typesetting,Index,Internal,Negative,High,Addressed,1,POE2301011
+POE,2024-06-21,AlBe Publishing,Printing,Back Cover,Internal,Negative,Low,Pending,1,POE2406211
+BIO,2024-06-04,Beta books,Binding,Index,Internal,Negative,Medium,Rejected,2,BIO2406042
+SCI,2024-09-01,Beta books,Typesetting,Index,Internal,Negative,High,Pending,1,SCI2409011
+SCI,2024-03-06,alpha press,Proofreading,Index,Internal,Negative,Medium,Revised,1,SCI2403061
+POE,2024-12-29,Thomson Press,Printing,Body Text,Internal,Negative,High,Rejected,1,POE2412291
+FIC,2023-09-17,Gamma Publishing,Manuscript,Reference Section,Internal,Negative,Low,Rejected,2,FIC2309172
+HIS,2023-01-13,Alpha Press,Printing,Back Cover,Internal,Negative,Low,Addressed,2,HIS2301132
+POE,2023-08-22,Alpha Press,Printing,Back Cover,Internal,Negative,High,Revised,1,POE2308221
+SCI,2024-03-22,Gamma Publishing,Printing,Body Text,External,Negative,High,Accepted,1,SCI2403221
+BIO,2024-05-20,alpha press,Manuscript,Back Cover,External,Negative,Medium,Addressed,3,BIO2405203
+POE,2023-05-06,Delta Inc.,Binding,Index,External,Negative,High,Addressed,1,POE2305061
+COM,2023-12-06,Thomson Press,Printing,Reference Section,External,Negative,High,Rejected,1,COM2312061
+ROM,2023-03-14,Gamma Publishing,Binding,Front Cover,External,Negative,Low,Accepted,1,ROM2303141
+SCI,2024-08-13,Beta books,Printing,Back Cover,Internal,Negative,High,Pending,2,SCI2408132
+BIO,2023-05-05,Thomson Press,Typesetting,Body Text,External,Negative,Low,,2,BIO2305052
+BIO,2023-08-09,Beta Books,Binding,Index,Internal,Negative,High,Pending,1,BIO2308091
+SCI,2024-11-02,Beta books,Proofreading,Index,Internal,Negative,Low,Rejected,2,SCI2411022
+SCI,2023-04-08,Epsilon Ltd.,Manuscript,Reference Section,Internal,Negative,High,Pending,2,SCI2304082
+FIC,2024-12-13,Alpha Press,Manuscript,Front Cover,External,Negative,High,Pending,1,FIC2412131
+POE,2023-01-18,Beta Books,Printing,front cover,External,Negative,Medium,Accepted,1,POE2301181
+SCI,2024-05-26,Beta books,Printing,Back Cover,External,Negative,Medium,Rejected,2,SCI2405262
+FIC,2024-07-21,Beta books,Binding,Index,Internal,Negative,Low,Rejected,1,FIC2407211
+FIC,2024-08-04,Beta Books,Proofreading,Illustrations,Internal,Negative,Medium,Addressed,2,FIC2408042
+HIS,2023-09-23,Epsilon Ltd.,Proofreading,Back Cover,Internal,Negative,Low,Revised,1,HIS2309231
+ROM,2024-05-15,alpha press,Binding,Illustrations,External,Negative,Medium,Revised,1,ROM2405151
+FIC,2024-09-18,Epsilon Ltd.,Binding,front cover,Internal,Negative,High,Accepted,2,FIC2409182
+BIO,2023-11-10,Beta Books,Printing,Reference Section,External,Negative,Low,Pending,2,BIO2311102
+POE,2024-05-04,Thomson Press,Printing,Back Cover,Internal,Negative,Medium,Pending,2,POE2405042
+COM,2023-12-31,Beta Books,Manuscript,Reference Section,Internal,Negative,Low,Addressed,1,COM2312311
+COM,2024-10-23,AlBe Publishing,Manuscript,Reference Section,Internal,Negative,Low,Revised,1,COM2410231
+BIO,2023-07-15,Beta books,Proofreading,Body Text,External,Negative,High,Revised,2,BIO2307152
+FIC,2024-05-17,alpha press,Proofreading,Index,External,Negative,High,Revised,3,FIC2405173
+POE,2024-08-30,Beta Books,Manuscript,Front Cover,Internal,Negative,Low,Accepted,1,POE2408301
+COM,2024-10-12,Alpha Press,Typesetting,Front Cover,Internal,Negative,Medium,Revised,1,COM2410121
+BIO,2023-08-12,Beta books,Typesetting,Front Cover,External,Negative,Low,Accepted,3,BIO2308123
+FIC,2024-12-01,Beta Books,Manuscript,Back Cover,External,Negative,Low,Addressed,1,FIC2412011
+HIS,2023-09-28,Beta Books,Printing,Illustrations,Internal,Negative,Medium,Pending,1,HIS2309281
+FIC,2024-04-04,Gamma Publishing,Proofreading,Illustrations,Internal,Negative,Medium,Pending,3,FIC2404043
+COM,2024-11-12,Beta books,proof reading,Reference Section,External,Negative,Low,Rejected,1,COM2411121
+COM,2024-04-19,Beta Books,Typesetting,Index,External,Negative,High,Pending,2,COM2404192
+POE,2024-03-01,Thomson Press,Proofreading,Body Text,Internal,Negative,Medium,Accepted,1,POE2403011
+ROM,2024-01-15,Alpha Press,Printing,Illustrations,Internal,Negative,High,,1,ROM2401151
+HIS,2023-07-02,AlBe Publishing,Proofreading,Front Cover,Internal,Negative,Medium,Addressed,1,HIS2307021
+FIC,2023-12-15,alpha press,Manuscript,Body Text,Internal,Negative,High,Accepted,2,FIC2312152
+THR,2024-11-24,Thomson Press,Binding,Front Cover,External,Negative,Medium,Revised,2,THR2411242
+HIS,2023-04-29,Beta books,Typesetting,Index,Internal,Negative,Medium,Revised,1,HIS2304291
+BIO,2023-11-19,Delta Inc.,Proofreading,Body Text,External,Negative,High,Revised,1,BIO2311191
+POE,2023-02-21,Beta Books,Binding,Back Cover,External,Negative,High,Accepted,1,POE2302211
+POE,2024-12-22,Alpha Press,Printing,Reference Section,Internal,Negative,High,Pending,2,POE2412222
+POE,2024-01-20,Alpha Press,Printing,Illustrations,Internal,Negative,High,Revised,2,POE2401202
+SCI,2024-02-05,Alpha Press,Manuscript,Front Cover,External,Negative,Medium,Pending,1,SCI2402051
+ROM,2024-07-03,Delta Inc.,Manuscript,Back Cover,Internal,Negative,Medium,Pending,2,ROM2407032
+BIO,2023-09-26,Alpha Press,Printing,Reference Section,External,Negative,Low,Rejected,1,BIO2309261
+HIS,2024-04-30,alpha press,Proofreading,Body Text,External,Negative,Low,Addressed,1,HIS2404301
+COM,2024-12-03,AlBe Publishing,Printing,Back Cover,External,Negative,Low,Revised,2,COM2412032
+THR,2023-12-12,Beta books,Typesetting,Index,External,Negative,Low,Addressed,1,THR2312121
+BIO,2024-09-11,AlBe Publishing,Proofreading,Index,Internal,Negative,Low,Revised,1,BIO2409111
+HIS,2023-04-14,Thomson Press,Manuscript,Reference Section,External,Negative,High,Addressed,1,HIS2304141
+POE,2023-10-09,alpha press,Manuscript,Index,Internal,Negative,Low,Pending,2,POE2310092
+THR,2024-04-18,Alpha Press,Manuscript,Index,Internal,Negative,Medium,Rejected,1,THR2404181
+THR,2023-07-04,Delta Inc.,Binding,Reference Section,Internal,Positive,Medium,Addressed,1,THR2307041
+SCI,2023-05-12,Beta Books,Proofreading,Illustrations,Internal,Negative,Low,Accepted,2,SCI2305122
+POE,2024-03-08,Epsilon Ltd.,Binding,Illustrations,External,Negative,High,Pending,2,POE2403082
+COM,2023-10-07,alpha press,Manuscript,Body Text,External,Negative,Medium,Rejected,2,COM2310072
+POE,2024-02-08,Alpha Press,Typesetting,Illustrations,Internal,Negative,High,Revised,2,POE2402082
+SCI,2024-10-25,AlBe Publishing,Printing,Index,External,Negative,High,Accepted,1,SCI2410251
+POE,2024-10-26,Epsilon Ltd.,Binding,Body Text,Internal,Negative,Low,Accepted,2,POE2410262
+ROM,2023-10-20,Beta Books,Manuscript,Reference Section,External,Negative,High,Pending,2,ROM2310202
+COM,2023-09-19,Delta Inc.,Proofreading,Index,External,Negative,Low,Rejected,2,COM2309192
+SCI,2024-01-01,Delta Inc.,Printing,Body Text,External,Negative,High,Accepted,2,SCI2401012
+BIO,2024-07-10,Alpha Press,Printing,Body,Internal,Negative,Low,Pending,2,BIO2407102
+THR,2023-10-06,Thomson Press,Manuscript,Illustrations,External,Negative,Medium,Pending,1,THR2310061
+SCI,2023-11-16,Gamma Publishing,Binding,Front Cover,External,Negative,High,Revised,1,SCI2311161
+POE,2023-04-05,Thomson Press,Binding,Back Cover,Internal,Negative,Medium,Pending,1,POE2304051
+COM,2024-06-07,alpha press,Manuscript,Body Text,External,Negative,Low,Accepted,4,COM2406074
+FIC,2024-11-27,Delta Inc.,Proofreading,front cover,External,Negative,Medium,Addressed,1,FIC2411271
+COM,2023-08-23,Beta Books,Manuscript,Front Cover,Internal,Negative,High,Revised,1,COM2308231
+SCI,2024-04-05,AlBe Publishing,Binding,Illustrations,External,Negative,Medium,Accepted,2,SCI2404052
+FIC,2024-07-26,alpha press,Proofreading,Back Cover,Internal,Negative,Low,Rejected,2,FIC2407262
+FIC,2023-07-12,Thomson Press,Typesetting,Reference Section,Internal,Negative,Low,Accepted,2,FIC2307122
+POE,2024-08-02,Thomson Press,Printing,Reference Section,Internal,Negative,High,Addressed,2,POE2408022
+SCI,2023-04-30,alpha press,Typesetting,Back Cover,Internal,Negative,High,Addressed,1,SCI2304301
+BIO,2024-09-08,Alpha Press,Proofreading,Illustrations,Internal,Negative,Medium,Pending,3,BIO2409083
+HIS,2024-07-27,AlBe Publishing,Printing,Index,External,Negative,High,Revised,1,HIS2407271
+FIC,2024-03-22,alpha press,Manuscript,Illustrations,External,Negative,Medium,Accepted,3,FIC2403223
+ROM,2023-05-02,alpha press,Manuscript,Front Cover,Internal,Negative,Low,Revised,3,ROM2305023
+SCI,2023-01-25,Gamma Publishing,Proofreading,Body Text,External,Negative,Medium,Accepted,1,SCI2301251
+HIS,2024-08-20,Beta Books,Printing,Body Text,Internal,Negative,Medium,Revised,2,HIS2408202
+HIS,2024-09-29,Thomson Press,Binding,Index,Internal,Negative,High,Rejected,1,HIS2409291
+THR,2024-11-27,Epsilon Ltd.,Proofreading,Index,Internal,Negative,Medium,Addressed,2,THR2411272
+THR,2024-08-25,Epsilon Ltd.,Printing,Body Text,External,Negative,Medium,Addressed,2,THR2408252
+POE,2024-11-16,AlBe Publishing,Proofreading,Body Text,Internal,Negative,Low,Pending,1,POE2411161
+HIS,2023-05-20,Delta Inc.,Typesetting,Back Cover,External,Negative,Medium,Addressed,1,HIS2305201
+THR,2024-05-31,Epsilon Ltd.,Typesetting,Front Cover,Internal,Negative,Medium,Addressed,2,THR2405312
+HIS,2024-02-11,Beta books,Binding,front cover,External,Negative,Low,Pending,2,HIS2402112
+COM,2023-06-27,Thomson Press,Binding,Body Text,External,Negative,Low,,3,COM2306273
+COM,2023-05-04,Alpha Press,Printing,Reference Section,External,Negative,High,Pending,1,COM2305041
+POE,2024-01-10,alpha press,Manuscript,Body Text,Internal,Negative,Medium,Addressed,2,POE2401102
+BIO,2023-05-12,Beta books,Binding,Body Text,Internal,Negative,Medium,Revised,3,BIO2305123
+POE,2023-05-30,Alpha Press,Typesetting,Reference Section,Internal,Negative,High,Accepted,1,POE2305301
+ROM,2023-07-04,Beta Books,Binding,Back Cover,Internal,Negative,Low,Pending,2,ROM2307042
+POE,2024-02-01,Epsilon Ltd.,Manuscript,Back Cover,Internal,Negative,Low,Accepted,2,POE2402012
+THR,2023-05-04,Epsilon Ltd.,Proofreading,front cover,Internal,Negative,High,Pending,2,THR2305042
+HIS,2023-10-05,Epsilon Ltd.,Binding,Body Text,External,Negative,Medium,Rejected,1,HIS2310051
+BIO,2024-11-04,Beta Books,Typesetting,Illustrations,External,Negative,High,Accepted,4,BIO2411044
+FIC,2024-05-26,Thomson Press,Printing,Back Cover,Internal,Negative,Medium,Pending,3,FIC2405263
+SCI,2023-01-26,Gamma Publishing,Binding,Index,External,Negative,Low,Accepted,2,SCI2301262
+FIC,2023-08-28,Gamma Publishing,Typesetting,Body,External,Negative,Low,Accepted,2,FIC2308282
+SCI,2023-06-05,Gamma Publishing,Proofreading,Front Cover,Internal,Negative,High,Accepted,1,SCI2306051
+FIC,2024-07-03,Thomson Press,Binding,Reference Section,External,Negative,High,,3,FIC2407033
+COM,2023-08-25,alpha press,Typesetting,Body Text,External,Negative,Low,Addressed,1,COM2308251
+THR,2024-08-07,Epsilon Ltd.,Printing,Back Cover,External,Negative,Medium,Addressed,1,THR2408071
+SCI,2023-04-09,Beta Books,Manuscript,Reference Section,External,Negative,Medium,Rejected,1,SCI2304091
+POE,2024-04-20,Epsilon Ltd.,Binding,Index,External,Negative,Low,Accepted,1,POE2404201
+SCI,2023-06-17,alpha press,Printing,Back Cover,External,Negative,Low,Rejected,3,SCI2306173
+THR,2023-05-13,Beta books,Binding,Front Cover,Internal,Negative,Medium,Addressed,1,THR2305131
+THR,2023-03-12,Beta books,Printing,Illustrations,External,Negative,Low,Pending,1,THR2303121
+POE,2024-12-08,Alpha Press,Typesetting,Body Text,Internal,Negative,Low,Revised,1,POE2412081
+HIS,2024-06-06,Thomson Press,Manuscript,Front Cover,External,Negative,High,Revised,1,HIS2406061
+HIS,2024-02-04,Alpha Press,Typesetting,Back Cover,Internal,Negative,Medium,Pending,2,HIS2402042
+HIS,2023-08-18,Epsilon Ltd.,Typesetting,Back Cover,Internal,Negative,Medium,Rejected,1,HIS2308181
+HIS,2024-10-31,Alpha Press,Typesetting,Illustrations,External,Negative,High,Accepted,2,HIS2410312
+FIC,2023-07-30,Alpha Press,proof reading,Body Text,External,Negative,High,Addressed,3,FIC2307303
+FIC,2024-05-04,Gamma Publishing,Proofreading,Back Cover,Internal,Negative,Medium,Accepted,4,FIC2405044
+COM,2024-08-27,Gamma Publishing,Manuscript,Index,External,Negative,Low,Pending,1,COM2408271
+FIC,2023-07-12,Beta Books,Manuscript,Back Cover,External,Negative,Medium,Revised,3,FIC2307123
+BIO,2024-04-05,Delta Inc.,Proofreading,Body Text,External,Negative,Low,Pending,3,BIO2404053
+COM,2024-07-14,alpha press,Binding,Reference Section,Internal,Negative,Medium,,2,COM2407142
+ROM,2024-06-16,Epsilon Ltd.,Manuscript,Body Text,External,Negative,High,,2,ROM2406162
+ROM,2023-11-24,AlBe Publishing,Proofreading,Index,External,Negative,High,Accepted,1,ROM2311241
+SCI,2023-11-06,Beta books,Typesetting,Body,Internal,Negative,Low,,1,SCI2311061
+COM,2024-03-06,Thomson Press,Printing,Front Cover,Internal,Negative,Medium,Revised,2,COM2403062
+HIS,2023-01-03,Beta books,Printing,Body Text,External,Negative,High,Rejected,2,HIS2301032
+BIO,2023-07-01,Thomson Press,Printing,Back Cover,Internal,Negative,Medium,Addressed,1,BIO2307011
+ROM,2024-10-05,Beta books,Proofreading,Index,External,Negative,Low,Rejected,2,ROM2410052
+ROM,2024-12-07,Beta books,Manuscript,Back Cover,Internal,Negative,High,Revised,2,ROM2412072
+HIS,2023-06-30,alpha press,Printing,Back Cover,External,Negative,Low,Accepted,1,HIS2306301
+HIS,2023-08-09,Alpha Press,Manuscript,Reference Section,Internal,Negative,Low,Pending,2,HIS2308092
+SCI,2023-05-10,Alpha Press,Binding,Body Text,External,Negative,Medium,Revised,3,SCI2305103
+SCI,2023-08-11,Epsilon Ltd.,Printing,Reference Section,Internal,Negative,Medium,Pending,2,SCI2308112
+FIC,2023-10-07,Thomson Press,Proofreading,Back Cover,External,Positive,Medium,Pending,3,FIC2310073
+POE,2024-01-29,AlBe Publishing,Typesetting,Body Text,Internal,Negative,High,Rejected,2,POE2401292
+HIS,2023-01-18,AlBe Publishing,Printing,Back Cover,External,Negative,High,Rejected,2,HIS2301182
+BIO,2023-08-10,Alpha Press,Printing,Back Cover,External,Negative,Medium,,1,BIO2308101
+COM,2024-09-30,Alpha Press,Printing,Front Cover,External,Negative,Medium,Pending,3,COM2409303
+FIC,2023-04-28,Beta Books,Typesetting,Reference Section,External,Negative,Medium,Revised,2,FIC2304282
+HIS,2023-02-15,Beta Books,Binding,Illustrations,External,Negative,Medium,Addressed,1,HIS2302151
+ROM,2024-06-04,Epsilon Ltd.,Manuscript,Body,Internal,Negative,High,Revised,3,ROM2406043
+COM,2023-02-22,alpha press,Manuscript,Illustrations,External,Negative,High,Revised,1,COM2302221
+COM,2023-09-05,Beta Books,Typesetting,Front Cover,External,Negative,High,Accepted,1,COM2309051
+THR,2023-03-02,Thomson Press,Printing,Back Cover,Internal,Negative,High,Accepted,4,THR2303024
+ROM,2023-02-22,Epsilon Ltd.,Proofreading,Body Text,External,Negative,High,Addressed,2,ROM2302222
+COM,2023-10-13,Gamma Publishing,Proofreading,Back Cover,External,Negative,Medium,Rejected,1,COM2310131
+THR,2024-03-14,AlBe Publishing,Printing,Body Text,Internal,Negative,High,Accepted,1,THR2403141
+FIC,2023-02-11,Beta Books,Typesetting,Body Text,External,Negative,Medium,Accepted,3,FIC2302113
+THR,2023-11-04,alpha press,Typesetting,Illustrations,External,Negative,High,Accepted,1,THR2311041
+POE,2024-08-21,Delta Inc.,Binding,Back Cover,Internal,Negative,Low,Accepted,1,POE2408211
+POE,2024-07-12,Gamma Publishing,Proofreading,Illustrations,Internal,Negative,High,Pending,3,POE2407123
+SCI,2024-05-08,Beta books,Printing,Back Cover,Internal,Negative,Low,Accepted,3,SCI2405083
+THR,2023-04-14,Beta books,Proofreading,Back Cover,Internal,Negative,Low,Addressed,2,THR2304142
+POE,2023-05-07,Alpha Press,Printing,Front Cover,External,Negative,High,Rejected,2,POE2305072
+COM,2024-03-23,Alpha Press,Printing,Back Cover,External,Negative,Low,Rejected,3,COM2403233
+HIS,2024-10-11,Epsilon Ltd.,Printing,Illustrations,External,Negative,Low,Accepted,2,HIS2410112
+POE,2023-07-17,Alpha Press,Proofreading,Body Text,Internal,Negative,Low,Addressed,2,POE2307172
+SCI,2023-04-25,AlBe Publishing,Typesetting,Reference Section,External,Negative,Medium,Revised,1,SCI2304251
+COM,2024-04-18,Beta books,Proofreading,Body Text,External,Negative,High,Pending,2,COM2404182
+BIO,2023-04-17,Gamma Publishing,Binding,Front Cover,External,Negative,Medium,Rejected,2,BIO2304172
+FIC,2023-05-01,Thomson Press,Typesetting,Front Cover,External,Negative,Low,Pending,3,FIC2305013
+SCI,2024-04-11,Epsilon Ltd.,Proofreading,Index,Internal,Negative,Low,Addressed,2,SCI2404112
+HIS,2024-10-31,Alpha Press,Printing,Reference Section,External,Negative,High,Rejected,3,HIS2410313
+COM,2024-11-01,Beta Books,Binding,Reference Section,External,Negative,Low,Addressed,2,COM2411012
+ROM,2023-03-24,Gamma Publishing,Printing,Front Cover,External,Negative,Low,Pending,3,ROM2303243
+POE,2024-11-22,alpha press,Proofreading,Body Text,Internal,Negative,Low,Accepted,2,POE2411222
+ROM,2024-06-17,AlBe Publishing,Proofreading,Index,Internal,Negative,Medium,Rejected,1,ROM2406171
+SCI,2024-05-17,Epsilon Ltd.,Typesetting,Illustrations,External,Negative,High,Addressed,4,SCI2405174
+COM,2024-09-28,Beta Books,Binding,Body Text,External,Negative,High,,2,COM2409282
+POE,2024-10-13,Alpha Press,Manuscript,Body Text,Internal,Negative,Medium,,3,POE2410133
+POE,2024-09-20,Epsilon Ltd.,Proofreading,Illustrations,External,Negative,Medium,Rejected,2,POE2409202
+POE,2023-03-12,Delta Inc.,Binding,Index,Internal,Negative,Low,Rejected,2,POE2303122
+THR,2024-11-29,Alpha Press,Binding,Index,Internal,Negative,Medium,Pending,3,THR2411293
+COM,2024-04-12,alpha press,Manuscript,Back Cover,Internal,Negative,High,Rejected,3,COM2404123
+COM,2024-09-21,alpha press,Typesetting,Body,External,Negative,Medium,Accepted,1,COM2409211
+THR,2024-11-12,Epsilon Ltd.,Manuscript,Back Cover,Internal,Negative,Medium,Revised,2,THR2411122
+THR,2023-09-17,AlBe Publishing,Typesetting,Illustrations,Internal,Negative,Medium,Addressed,3,THR2309173
+BIO,2024-06-30,Thomson Press,Proofreading,Index,External,Negative,High,Addressed,1,BIO2406301
+FIC,2024-12-18,Epsilon Ltd.,Manuscript,Illustrations,External,Negative,Low,Revised,1,FIC2412181
+POE,2023-11-29,AlBe Publishing,Manuscript,Front Cover,External,Negative,Medium,Pending,2,POE2311292
+FIC,2023-09-26,Beta Books,Printing,Index,External,Negative,Low,Rejected,2,FIC2309262
+SCI,2024-02-04,Beta Books,Manuscript,Front Cover,Internal,Positive,Low,Accepted,3,SCI2402043
+SCI,2023-02-08,Delta Inc.,Binding,Illustrations,Internal,Negative,Medium,Rejected,2,SCI2302082
+HIS,2024-03-03,Thomson Press,Binding,Index,External,Negative,High,Rejected,1,HIS2403031
+THR,2023-11-17,alpha press,Binding,Front Cover,External,Negative,Medium,Accepted,2,THR2311172
+HIS,2024-10-16,Delta Inc.,Proofreading,Body Text,External,Negative,Low,Rejected,2,HIS2410162
+POE,2023-03-08,Beta Books,Manuscript,Index,External,Positive,Medium,Rejected,1,POE2303081
+BIO,2023-02-13,AlBe Publishing,Binding,Reference Section,External,Negative,Medium,Accepted,1,BIO2302131
+POE,2024-01-21,alpha press,Proofreading,Back Cover,Internal,Negative,High,Revised,2,POE2401212
+THR,2023-08-12,Epsilon Ltd.,Manuscript,Reference Section,External,Negative,Medium,Rejected,5,THR2308125
+THR,2023-05-21,Alpha Press,Manuscript,Illustrations,Internal,Negative,High,Revised,4,THR2305214
+THR,2023-07-23,Beta Books,Printing,Reference Section,Internal,Negative,Medium,Revised,1,THR2307231
+POE,2024-06-05,Delta Inc.,Typesetting,front cover,Internal,Negative,Medium,Rejected,1,POE2406051
+COM,2023-06-27,Delta Inc.,Binding,Reference Section,External,Negative,Low,Revised,4,COM2306274
+COM,2024-11-07,Alpha Press,Printing,Reference Section,External,Negative,High,Addressed,1,COM2411071
+HIS,2024-04-03,Beta Books,Typesetting,Reference Section,External,Negative,Low,Rejected,3,HIS2404033
+THR,2024-01-19,Thomson Press,Printing,Illustrations,Internal,Negative,Low,Accepted,1,THR2401191
+HIS,2024-07-19,Beta books,Printing,Reference Section,External,Negative,Medium,Addressed,2,HIS2407192
+BIO,2023-09-30,Gamma Publishing,Proofreading,Front Cover,Internal,Negative,Medium,Rejected,2,BIO2309302
+THR,2023-06-06,Beta Books,Binding,Front Cover,Internal,Negative,High,Revised,2,THR2306062
+POE,2024-03-10,Delta Inc.,Binding,front cover,External,Negative,High,Revised,1,POE2403101
+POE,2024-01-05,Gamma Publishing,Manuscript,Reference Section,Internal,Negative,Medium,Pending,2,POE2401052
+ROM,2023-04-27,alpha press,Typesetting,Back Cover,Internal,Negative,Medium,Rejected,2,ROM2304272
+ROM,2024-06-19,Beta books,Proofreading,Index,External,Negative,Low,Rejected,1,ROM2406191
+BIO,2023-03-24,Delta Inc.,Printing,Illustrations,External,Negative,High,Addressed,4,BIO2303244
+BIO,2023-11-19,AlBe Publishing,Printing,Index,External,Negative,Low,Addressed,2,BIO2311192
+SCI,2024-03-04,Epsilon Ltd.,Typesetting,Body Text,Internal,Negative,High,Rejected,2,SCI2403042
+THR,2023-11-02,Beta books,Printing,Index,Internal,Negative,Low,Revised,2,THR2311022
+HIS,2023-08-24,AlBe Publishing,Printing,Index,External,Negative,Low,Pending,1,HIS2308241
+BIO,2024-05-09,alpha press,Typesetting,Front Cover,Internal,Negative,Medium,Addressed,1,BIO2405091
+ROM,2024-10-31,Epsilon Ltd.,Proofreading,Illustrations,Internal,Negative,Medium,Rejected,4,ROM2410314
+THR,2023-09-06,Gamma Publishing,Binding,Body Text,External,Negative,High,Accepted,3,THR2309063
+BIO,2023-09-20,Beta books,Manuscript,Back Cover,Internal,Negative,Low,Addressed,2,BIO2309202
+SCI,2023-11-16,Beta books,Manuscript,Illustrations,Internal,Negative,Medium,Addressed,2,SCI2311162
+SCI,2023-08-17,alpha press,Binding,Body Text,Internal,Negative,Low,Revised,1,SCI2308171
+FIC,2023-01-09,Epsilon Ltd.,Manuscript,Front Cover,External,Negative,High,Rejected,1,FIC2301091
+THR,2023-11-19,AlBe Publishing,Proofreading,Body Text,Internal,Negative,Low,Addressed,3,THR2311193
+SCI,2023-08-26,Gamma Publishing,Proofreading,Body Text,Internal,Negative,High,Pending,2,SCI2308262
+ROM,2023-08-30,AlBe Publishing,Printing,Illustrations,Internal,Negative,High,Revised,2,ROM2308302
+ROM,2024-09-26,Gamma Publishing,Proofreading,Reference Section,External,Negative,High,Accepted,3,ROM2409263
+SCI,2024-06-11,Epsilon Ltd.,Typesetting,Illustrations,Internal,Negative,Low,Rejected,1,SCI2406111
+BIO,2024-09-03,AlBe Publishing,Typesetting,Body Text,Internal,Negative,Medium,Rejected,2,BIO2409032
+COM,2023-11-28,Delta Inc.,Proofreading,Front Cover,Internal,Negative,High,Revised,1,COM2311281
+ROM,2023-09-14,alpha press,Binding,Back Cover,External,Negative,Medium,Addressed,1,ROM2309141
+POE,2023-10-09,Delta Inc.,Typesetting,Back Cover,Internal,Negative,Low,Pending,3,POE2310093
+BIO,2023-06-18,AlBe Publishing,Typesetting,Back Cover,Internal,Negative,Low,Rejected,2,BIO2306182
+COM,2023-01-01,Thomson Press,Printing,Reference Section,Internal,Negative,Medium,Rejected,2,COM2301012
+POE,2024-08-28,alpha press,Typesetting,Body Text,External,Negative,High,Pending,2,POE2408282
+COM,2024-03-24,alpha press,Manuscript,Body Text,Internal,Negative,High,Addressed,2,COM2403242
+THR,2023-12-16,Beta Books,Printing,Reference Section,External,Negative,Medium,Pending,3,THR2312163
+COM,2024-12-30,Alpha Press,Manuscript,Back Cover,Internal,Negative,High,Accepted,1,COM2412301
+FIC,2024-09-13,AlBe Publishing,Proofreading,Body Text,External,Negative,High,Rejected,2,FIC2409132
+ROM,2024-12-23,Epsilon Ltd.,Printing,Back Cover,Internal,Negative,High,Addressed,2,ROM2412232
+THR,2023-11-11,Beta books,Typesetting,Illustrations,Internal,Negative,High,Addressed,2,THR2311112
+THR,2024-12-31,Alpha Press,Manuscript,Body Text,External,Negative,Medium,,1,THR2412311
+POE,2024-03-29,Gamma Publishing,Binding,front cover,External,Negative,High,Accepted,1,POE2403291
+POE,2024-01-17,Delta Inc.,Printing,Back Cover,Internal,Negative,High,Accepted,2,POE2401172
+ROM,2024-06-21,Epsilon Ltd.,Typesetting,Front Cover,External,Negative,High,Pending,2,ROM2406212
+FIC,2024-08-02,Beta books,Proofreading,Front Cover,External,Negative,High,Pending,3,FIC2408023
+FIC,2024-01-09,AlBe Publishing,Manuscript,Index,External,Negative,Medium,Revised,2,FIC2401092
+COM,2023-05-26,alpha press,Binding,Body Text,External,Negative,Medium,Accepted,1,COM2305261
+THR,2023-05-27,AlBe Publishing,Printing,Reference Section,Internal,Negative,Low,Rejected,1,THR2305271
+POE,2024-02-24,Beta books,Typesetting,Back Cover,Internal,Negative,High,Revised,3,POE2402243
+ROM,2023-07-08,Alpha Press,Printing,Body Text,External,Negative,High,Pending,3,ROM2307083
+THR,2023-06-24,Thomson Press,Proofreading,Back Cover,External,Negative,Low,Revised,2,THR2306242
+POE,2024-09-09,alpha press,Proofreading,Illustrations,External,Negative,High,Pending,1,POE2409091
+COM,2023-07-05,Gamma Publishing,Typesetting,Front Cover,External,Negative,High,Rejected,2,COM2307052
+ROM,2024-06-09,Beta books,Proofreading,Index,External,Negative,Low,Revised,2,ROM2406092
+BIO,2024-12-20,Beta Books,Proofreading,Front Cover,External,Negative,Medium,Accepted,2,BIO2412202
+COM,2024-08-11,Beta Books,Manuscript,Front Cover,External,Negative,Medium,Addressed,4,COM2408114
+COM,2023-05-15,Gamma Publishing,Printing,Illustrations,External,Negative,Medium,Revised,2,COM2305152
+POE,2023-02-27,Delta Inc.,Printing,Back Cover,Internal,Negative,High,Rejected,1,POE2302271
+ROM,2024-12-17,alpha press,Proofreading,Body Text,Internal,Negative,Medium,Rejected,1,ROM2412171
+FIC,2024-08-10,alpha press,Typesetting,Back Cover,External,Negative,High,Addressed,4,FIC2408104
+POE,2023-10-09,Delta Inc.,Manuscript,Reference Section,Internal,Negative,High,,4,POE2310094
+THR,2024-11-18,Gamma Publishing,Typesetting,Body Text,Internal,Negative,High,Accepted,4,THR2411184
+COM,2023-07-05,Beta books,Manuscript,Reference Section,External,Negative,Medium,Addressed,3,COM2307053
+HIS,2024-11-06,Delta Inc.,Printing,Back Cover,Internal,Positive,Medium,Revised,2,HIS2411062
+ROM,2024-09-06,Delta Inc.,Binding,Index,Internal,Negative,Medium,Rejected,2,ROM2409062
+FIC,2024-06-07,Gamma Publishing,proof reading,Index,Internal,Negative,High,Revised,5,FIC2406075
+POE,2024-03-24,AlBe Publishing,Proofreading,Body Text,Internal,Negative,Low,Addressed,3,POE2403243
+SCI,2023-03-10,alpha press,Proofreading,Back Cover,External,Negative,High,Rejected,1,SCI2303101
+THR,2024-03-09,alpha press,Binding,Reference Section,Internal,Negative,Low,Accepted,1,THR2403091
+COM,2024-03-20,Delta Inc.,Proofreading,Front Cover,External,Positive,High,Pending,2,COM2403202
+THR,2024-08-09,Beta Books,Binding,Body Text,External,Negative,Medium,Rejected,3,THR2408093
+ROM,2023-03-06,Thomson Press,Manuscript,Index,Internal,Negative,High,Revised,3,ROM2303063
+COM,2024-11-12,Gamma Publishing,Binding,Back Cover,Internal,Negative,Medium,Rejected,4,COM2411124
+BIO,2023-02-19,Beta Books,Binding,Back Cover,External,Negative,Medium,Rejected,2,BIO2302192
+SCI,2023-11-26,AlBe Publishing,Printing,Body Text,Internal,Negative,Medium,Rejected,4,SCI2311264
+HIS,2024-11-18,Beta Books,Binding,Front Cover,External,Negative,Low,Rejected,5,HIS2411185
+ROM,2024-02-01,Delta Inc.,Proofreading,Front Cover,Internal,Negative,High,Accepted,3,ROM2402013
+THR,2024-02-29,alpha press,Typesetting,Back Cover,Internal,Negative,Medium,Accepted,1,THR2402291
+POE,2023-06-08,alpha press,Manuscript,Front Cover,Internal,Negative,Medium,Addressed,1,POE2306081
+THR,2024-06-18,alpha press,proof reading,Back Cover,Internal,Negative,Medium,Pending,1,THR2406181
+THR,2023-10-21,Thomson Press,Typesetting,Back Cover,External,Negative,Medium,Pending,1,THR2310211
+HIS,2023-02-07,Beta Books,Binding,Front Cover,External,Positive,High,Rejected,3,HIS2302073
+BIO,2023-02-18,Beta Books,Proofreading,Front Cover,Internal,Negative,Low,Rejected,3,BIO2302183
+COM,2024-08-15,alpha press,Proofreading,Index,Internal,Negative,Medium,Pending,2,COM2408152
+HIS,2023-06-08,Gamma Publishing,Typesetting,Body Text,External,Negative,Low,Pending,2,HIS2306082
+COM,2023-10-23,Delta Inc.,Binding,Front Cover,Internal,Negative,High,Revised,2,COM2310232
+POE,2024-02-18,Delta Inc.,Manuscript,Body Text,External,Negative,High,Pending,1,POE2402181
+POE,2024-06-28,Beta Books,Printing,Body,External,Negative,Low,Accepted,3,POE2406283
+SCI,2023-09-09,Epsilon Ltd.,Printing,Back Cover,External,Negative,Medium,Revised,2,SCI2309092
+FIC,2024-11-09,alpha press,Manuscript,Illustrations,Internal,Negative,Medium,Rejected,4,FIC2411094
+SCI,2024-03-20,Epsilon Ltd.,Manuscript,Reference Section,Internal,Negative,High,,3,SCI2403203
+BIO,2024-07-24,Beta books,Proofreading,Index,Internal,Negative,Low,Accepted,1,BIO2407241
+POE,2023-08-01,Alpha Press,Typesetting,Reference Section,External,Negative,High,Addressed,2,POE2308012
+COM,2023-12-03,AlBe Publishing,Printing,Front Cover,Internal,Negative,Medium,Accepted,2,COM2312032
+HIS,2023-11-03,AlBe Publishing,Typesetting,Front Cover,Internal,Negative,Medium,Rejected,2,HIS2311032
+HIS,2024-03-09,alpha press,Binding,Index,External,Negative,High,Revised,2,HIS2403092
+POE,2024-05-14,Beta Books,Manuscript,Illustrations,Internal,Negative,Medium,Accepted,2,POE2405142
+BIO,2023-02-22,AlBe Publishing,Printing,Front Cover,External,Negative,Low,Revised,3,BIO2302223
+THR,2023-12-24,alpha press,Printing,Back Cover,External,Negative,Medium,Accepted,2,THR2312242
+SCI,2023-02-14,Beta Books,Binding,Body Text,External,Negative,High,Pending,3,SCI2302143
+SCI,2023-10-11,Thomson Press,Proofreading,Reference Section,External,Negative,High,Pending,2,SCI2310112
+SCI,2024-05-24,AlBe Publishing,Printing,Body Text,External,Positive,Low,Revised,2,SCI2405242
+THR,2024-10-24,Gamma Publishing,Proofreading,Back Cover,External,Negative,High,Revised,4,THR2410244
+COM,2023-05-22,Delta Inc.,Manuscript,Reference Section,Internal,Negative,High,Accepted,1,COM2305221
+SCI,2023-01-15,Delta Inc.,Manuscript,Front Cover,External,Negative,Low,Addressed,1,SCI2301151
+FIC,2024-04-05,Delta Inc.,Proofreading,Front Cover,Internal,Negative,Low,Accepted,4,FIC2404054
+POE,2023-05-25,Delta Inc.,Proofreading,Front Cover,External,Negative,High,Revised,3,POE2305253
+FIC,2024-01-28,Alpha Press,Printing,Front Cover,External,Negative,Medium,Addressed,3,FIC2401283
+THR,2024-05-26,Gamma Publishing,Printing,Front Cover,Internal,Negative,Low,Addressed,4,THR2405264
+BIO,2023-10-07,Beta Books,Printing,Index,External,Negative,Low,Pending,4,BIO2310074
+BIO,2023-03-08,alpha press,Binding,Index,External,Negative,Medium,Addressed,2,BIO2303082
+FIC,2024-06-02,Thomson Press,Typesetting,Front Cover,Internal,Negative,Medium,Accepted,1,FIC2406021
+SCI,2023-05-18,alpha press,Printing,Body Text,External,Negative,Low,Addressed,1,SCI2305181
+HIS,2023-05-29,Beta Books,Printing,Back Cover,External,Negative,Medium,Pending,2,HIS2305292
+SCI,2024-01-05,Thomson Press,Typesetting,Front Cover,External,Negative,Medium,Addressed,3,SCI2401053
+THR,2024-05-08,Gamma Publishing,Manuscript,Index,Internal,Negative,High,Addressed,4,THR2405084
+ROM,2023-05-09,AlBe Publishing,Binding,Illustrations,External,Negative,High,Addressed,1,ROM2305091
+HIS,2024-09-19,AlBe Publishing,Printing,Illustrations,External,Negative,Low,Rejected,2,HIS2409192
+POE,2024-06-14,Delta Inc.,Manuscript,Reference Section,External,Negative,High,Addressed,2,POE2406142
+THR,2024-09-07,AlBe Publishing,Proofreading,Index,Internal,Negative,High,Accepted,1,THR2409071
+SCI,2024-05-21,Epsilon Ltd.,Manuscript,Illustrations,Internal,Negative,Low,Pending,1,SCI2405211
+FIC,2024-03-15,Thomson Press,Manuscript,Index,Internal,Negative,Low,Rejected,2,FIC2403152
+THR,2023-12-09,alpha press,Manuscript,Index,External,Negative,High,Revised,1,THR2312091
+FIC,2023-11-17,Beta Books,Proofreading,Illustrations,External,Negative,Medium,Accepted,4,FIC2311174
+BIO,2023-01-21,Beta books,Manuscript,Front Cover,External,Negative,Low,Rejected,1,BIO2301211
+THR,2023-11-21,Gamma Publishing,Proofreading,Index,Internal,Negative,Medium,Rejected,4,THR2311214
+ROM,2024-10-02,Thomson Press,Proofreading,Illustrations,Internal,Negative,High,Accepted,3,ROM2410023
+SCI,2024-08-21,Alpha Press,Binding,Back Cover,Internal,Negative,Medium,Rejected,2,SCI2408212
+COM,2024-09-08,Thomson Press,Manuscript,Front Cover,External,Negative,Low,Rejected,4,COM2409084
+COM,2024-12-14,Thomson Press,Printing,Index,External,Negative,Low,Rejected,2,COM2412142
+POE,2023-12-21,Delta Inc.,Manuscript,Back Cover,External,Negative,High,Addressed,1,POE2312211
+ROM,2024-12-04,Alpha Press,Binding,Front Cover,External,Negative,High,Revised,2,ROM2412042
+FIC,2024-10-10,Gamma Publishing,Typesetting,Index,External,Negative,Low,Revised,3,FIC2410103
+BIO,2024-01-04,Delta Inc.,Manuscript,Front Cover,Internal,Negative,Low,Accepted,3,BIO2401043
+SCI,2023-03-10,Delta Inc.,Binding,Reference Section,External,Negative,Medium,Addressed,3,SCI2303103
+FIC,2024-06-18,alpha press,Typesetting,Index,External,Negative,High,Revised,2,FIC2406182
+SCI,2024-02-23,Delta Inc.,Typesetting,Illustrations,Internal,Negative,Medium,Accepted,2,SCI2402232
+ROM,2023-02-18,Gamma Publishing,Proofreading,Index,Internal,Negative,Low,Revised,4,ROM2302184
+FIC,2024-08-19,Alpha Press,Printing,front cover,External,Negative,Low,Accepted,1,FIC2408191
+ROM,2023-05-02,Thomson Press,Manuscript,Reference Section,Internal,Negative,Low,Accepted,4,ROM2305024
+HIS,2023-05-05,Gamma Publishing,Manuscript,Index,Internal,Negative,Low,Rejected,3,HIS2305053
+FIC,2024-05-30,alpha press,Printing,Reference Section,External,Negative,Low,Pending,1,FIC2405301
+FIC,2023-11-04,Beta books,Typesetting,Illustrations,External,Negative,Low,Rejected,2,FIC2311042
+BIO,2024-11-10,Beta Books,Proofreading,Reference Section,External,Negative,Low,Rejected,2,BIO2411102
+FIC,2024-05-20,Thomson Press,Manuscript,Front Cover,Internal,Negative,Medium,,5,FIC2405205
+HIS,2024-09-10,Beta Books,proof reading,Back Cover,Internal,Negative,Medium,Accepted,3,HIS2409103
+HIS,2024-11-24,Alpha Press,Manuscript,Front Cover,Internal,Negative,Medium,Revised,3,HIS2411243
+HIS,2023-11-23,Beta Books,Proofreading,Body Text,Internal,Negative,Medium,Revised,3,HIS2311233
+COM,2024-09-28,AlBe Publishing,Typesetting,Back Cover,Internal,Negative,High,Pending,4,COM2409284
+POE,2023-12-10,Beta books,Binding,Body Text,Internal,Negative,Low,Pending,1,POE2312101
+SCI,2024-04-04,Beta books,Proofreading,Reference Section,External,Negative,High,Rejected,4,SCI2404044
+SCI,2024-06-24,Epsilon Ltd.,Typesetting,Illustrations,External,Negative,Low,Pending,3,SCI2406243
+ROM,2023-10-12,Gamma Publishing,Typesetting,Front Cover,External,Negative,Medium,Rejected,1,ROM2310121
+SCI,2023-02-18,Beta Books,Printing,Back Cover,Internal,Negative,Medium,,5,SCI2302185
+THR,2023-06-27,Epsilon Ltd.,Typesetting,Back Cover,External,Negative,High,Rejected,5,THR2306275
+COM,2023-11-16,Delta Inc.,Manuscript,Reference Section,Internal,Negative,Low,Addressed,4,COM2311164
+ROM,2024-10-20,Epsilon Ltd.,proof reading,Back Cover,Internal,Negative,Low,,1,ROM2410201
+BIO,2024-07-05,Beta Books,Binding,Back Cover,Internal,Negative,Low,Revised,1,BIO2407051
+SCI,2024-09-26,AlBe Publishing,Proofreading,Reference Section,Internal,Negative,Medium,Accepted,5,SCI2409265
+HIS,2024-10-04,Gamma Publishing,Typesetting,Body Text,External,Negative,Low,Addressed,1,HIS2410041
+COM,2024-12-20,Delta Inc.,Printing,Body Text,External,Negative,Medium,Addressed,3,COM2412203
+POE,2023-08-23,Epsilon Ltd.,Typesetting,Reference Section,Internal,Negative,Low,Addressed,2,POE2308232
+POE,2023-02-19,Thomson Press,Printing,Index,Internal,Negative,High,Addressed,3,POE2302193
+FIC,2024-08-08,alpha press,Printing,Illustrations,External,Negative,Low,Addressed,4,FIC2408084
+COM,2024-06-18,alpha press,Typesetting,Front Cover,Internal,Negative,Low,,3,COM2406183
+ROM,2023-03-26,Epsilon Ltd.,Printing,Reference Section,External,Negative,High,Revised,4,ROM2303264
+HIS,2023-02-18,Alpha Press,Proofreading,front cover,Internal,Negative,High,Addressed,6,HIS2302186
+SCI,2024-09-12,Beta books,Binding,Front Cover,External,Negative,Low,Rejected,3,SCI2409123
+HIS,2023-03-12,AlBe Publishing,Printing,Front Cover,Internal,Negative,High,Accepted,4,HIS2303124
+ROM,2024-09-03,Beta Books,Printing,Index,Internal,Negative,Medium,Rejected,3,ROM2409033
+BIO,2024-12-27,Delta Inc.,Printing,Back Cover,Internal,Negative,Low,Addressed,1,BIO2412271
+BIO,2023-06-08,Delta Inc.,Binding,Reference Section,Internal,Negative,Medium,Rejected,4,BIO2306084
+COM,2024-01-06,Epsilon Ltd.,Manuscript,Back Cover,External,Negative,Medium,Addressed,1,COM2401061
+THR,2024-06-15,Beta books,Manuscript,Illustrations,Internal,Negative,High,Rejected,1,THR2406151
+ROM,2023-05-05,Epsilon Ltd.,Proofreading,Front Cover,Internal,Negative,High,Rejected,4,ROM2305054
+BIO,2023-11-14,Epsilon Ltd.,Proofreading,Index,Internal,Negative,High,Accepted,1,BIO2311141
+HIS,2023-02-09,Delta Inc.,Binding,Front Cover,External,Negative,Low,Accepted,4,HIS2302094
+ROM,2023-12-20,Epsilon Ltd.,Typesetting,Front Cover,External,Negative,Medium,Rejected,3,ROM2312203
+HIS,2023-08-22,AlBe Publishing,Printing,Index,Internal,Negative,Medium,Accepted,2,HIS2308222
+BIO,2023-10-23,Epsilon Ltd.,Binding,Body Text,Internal,Negative,Low,Revised,3,BIO2310233
+THR,2024-03-02,Alpha Press,Binding,Front Cover,External,Negative,Low,Pending,1,THR2403021
+HIS,2023-11-02,Delta Inc.,Typesetting,Body Text,External,Negative,Medium,Addressed,3,HIS2311023
+HIS,2024-08-25,AlBe Publishing,Printing,Body Text,Internal,Positive,Medium,Addressed,3,HIS2408253
+SCI,2023-01-22,Delta Inc.,Printing,front cover,External,Negative,High,Pending,2,SCI2301222
+ROM,2023-07-03,Beta books,Binding,Index,Internal,Negative,Low,Rejected,3,ROM2307033
+POE,2024-02-14,Alpha Press,Proofreading,Body Text,External,Negative,High,Addressed,1,POE2402141
+BIO,2023-04-28,Gamma Publishing,Typesetting,Back Cover,External,Negative,Medium,Rejected,3,BIO2304283
+ROM,2023-12-22,Beta books,Printing,Reference Section,Internal,Negative,Medium,Accepted,3,ROM2312223
+BIO,2023-11-12,Thomson Press,Binding,Index,External,Negative,High,Addressed,1,BIO2311121
+ROM,2023-06-03,Thomson Press,Manuscript,Index,External,Negative,Low,Pending,2,ROM2306032
+THR,2024-04-30,Epsilon Ltd.,Typesetting,Index,External,Negative,Low,Revised,4,THR2404304
+THR,2023-01-19,Epsilon Ltd.,Proofreading,Reference Section,External,Negative,High,Pending,1,THR2301191
+HIS,2024-07-02,Alpha Press,Typesetting,Front Cover,Internal,Negative,High,Rejected,3,HIS2407023
+THR,2023-08-05,alpha press,Binding,Illustrations,External,Negative,Medium,Rejected,4,THR2308054
+COM,2024-10-27,Thomson Press,Manuscript,Reference Section,External,Negative,Medium,Addressed,1,COM2410271
+SCI,2024-07-14,Thomson Press,Printing,Body Text,Internal,Negative,Low,Revised,4,SCI2407144
+COM,2023-12-08,Beta books,Manuscript,Front Cover,External,Negative,Medium,Accepted,2,COM2312082
+SCI,2024-10-12,Beta Books,Manuscript,Illustrations,Internal,Negative,Low,Pending,2,SCI2410122
+COM,2024-09-07,Gamma Publishing,Manuscript,Illustrations,External,Negative,High,,2,COM2409072
+HIS,2024-08-19,alpha press,Binding,Reference Section,Internal,Negative,Low,Accepted,3,HIS2408193
+SCI,2024-01-16,alpha press,Printing,Reference Section,Internal,Negative,High,Addressed,1,SCI2401161
+ROM,2024-07-24,Thomson Press,Manuscript,Back Cover,External,Negative,Low,,2,ROM2407242
+THR,2024-01-02,Gamma Publishing,Manuscript,Body Text,External,Negative,Low,Addressed,1,THR2401021
+FIC,2023-03-20,Beta books,Proofreading,Body Text,External,Negative,High,Revised,1,FIC2303201
+ROM,2024-05-04,AlBe Publishing,Manuscript,Back Cover,Internal,Negative,Medium,Rejected,6,ROM2405046
+BIO,2024-08-11,Alpha Press,Proofreading,Front Cover,Internal,Negative,High,Rejected,5,BIO2408115
+COM,2023-07-31,Gamma Publishing,Proofreading,Body Text,External,Negative,High,Pending,1,COM2307311
+THR,2024-05-04,Gamma Publishing,Printing,Illustrations,Internal,Negative,Low,,7,THR2405047
+FIC,2024-10-17,Epsilon Ltd.,Typesetting,Body Text,Internal,Negative,Medium,Revised,1,FIC2410171
+BIO,2023-12-02,AlBe Publishing,Printing,Body Text,Internal,Negative,High,Revised,3,BIO2312023
+COM,2023-11-09,Epsilon Ltd.,Typesetting,Index,Internal,Negative,Medium,Addressed,2,COM2311092
+COM,2024-05-04,AlBe Publishing,Binding,front cover,Internal,Negative,High,Addressed,8,COM2405048
+POE,2020-01-01,Delta Inc.,Printing,Back Cover,External,Negative,Medium,Addressed,5,POE2411125
+HIS,2023-12-01,Beta Books,Manuscript,Index,External,Negative,Medium,Pending,2,HIS2312012
+POE,2023-12-08,Beta books,Manuscript,Back Cover,External,Negative,High,Accepted,3,POE2312083
+HIS,2023-12-12,Gamma Publishing,Proofreading,Body Text,Internal,Negative,Medium,Addressed,3,HIS2312123
+FIC,2023-10-16,Delta Inc.,Proofreading,Back Cover,External,Negative,High,Rejected,2,FIC2310162
+BIO,2024-03-26,Beta Books,Manuscript,Index,External,Negative,Low,Revised,3,BIO2403263
+SCI,2023-02-04,Delta Inc.,proof reading,Front Cover,External,Negative,High,Revised,5,SCI2302045
+POE,2024-05-09,Delta Inc.,Typesetting,Index,Internal,Negative,High,Pending,2,POE2405092
+HIS,2024-07-15,alpha press,Binding,Illustrations,External,Negative,Low,Accepted,1,HIS2407151
+COM,2023-07-10,Thomson Press,Proofreading,Front Cover,External,Negative,Low,Accepted,1,COM2307101
+FIC,2024-10-30,AlBe Publishing,Binding,Reference Section,External,Negative,Low,Addressed,2,FIC2410302
+THR,2024-11-02,AlBe Publishing,Printing,Reference Section,External,Negative,High,Rejected,4,THR2411024
+SCI,2023-07-01,AlBe Publishing,Proofreading,Illustrations,Internal,Negative,Medium,Revised,3,SCI2307013
+BIO,2024-07-06,Beta books,Manuscript,Body Text,Internal,Negative,Medium,Addressed,1,BIO2407061
+HIS,2024-11-11,alpha press,Binding,Reference Section,External,Negative,Medium,Revised,2,HIS2411112
+FIC,2023-08-20,Alpha Press,Proofreading,Index,Internal,Negative,High,Rejected,3,FIC2308203
+COM,2023-11-14,Gamma Publishing,Binding,Illustrations,Internal,Negative,Medium,Accepted,3,COM2311143
+ROM,2024-02-25,alpha press,Proofreading,Back Cover,External,Negative,Low,Pending,1,ROM2402251
+ROM,2023-08-13,Epsilon Ltd.,Proofreading,Body Text,Internal,Negative,Low,Addressed,1,ROM2308131
+COM,2023-08-25,alpha press,Binding,Front Cover,External,Negative,Low,Revised,2,COM2308252
+COM,2023-10-02,Alpha Press,Binding,Front Cover,Internal,Negative,Medium,Revised,2,COM2310022
+BIO,2024-06-10,Beta books,Proofreading,Illustrations,External,Negative,Low,Addressed,1,BIO2406101
+COM,2023-03-08,Epsilon Ltd.,Proofreading,Front Cover,Internal,Negative,Low,Addressed,3,COM2303083
+THR,2023-02-12,Beta Books,Typesetting,Illustrations,Internal,Negative,Low,Accepted,1,THR2302121
+FIC,2024-09-03,Delta Inc.,Binding,Illustrations,Internal,Negative,Medium,Accepted,4,FIC2409034
+BIO,2023-10-17,Alpha Press,Binding,Back Cover,External,Negative,Low,Rejected,1,BIO2310171
+THR,2024-02-11,Alpha Press,Proofreading,Index,Internal,Negative,High,Accepted,3,THR2402113
+FIC,2024-01-05,Gamma Publishing,Binding,Index,External,Negative,Low,Pending,4,FIC2401054
+BIO,2023-10-12,AlBe Publishing,Binding,Reference Section,Internal,Negative,High,Revised,3,BIO2310123
+SCI,2023-03-13,Beta books,Typesetting,Reference Section,Internal,Negative,High,Rejected,2,SCI2303132
+ROM,2023-01-02,Epsilon Ltd.,Proofreading,front cover,External,Negative,High,Rejected,4,ROM2301024
+POE,2024-12-18,Beta books,Typesetting,Front Cover,External,Negative,Low,Addressed,2,POE2412182
+POE,2023-11-02,alpha press,Binding,Back Cover,External,Negative,High,Accepted,4,POE2311024
+SCI,2023-01-13,Thomson Press,Proofreading,Reference Section,Internal,Negative,Low,Pending,3,SCI2301133
+BIO,2023-05-18,alpha press,Proofreading,Back Cover,External,Negative,High,Accepted,4,BIO2305184
+COM,2023-06-23,Beta Books,Printing,Index,Internal,Negative,Medium,Rejected,1,COM2306231
+POE,2024-12-29,Delta Inc.,Manuscript,Reference Section,External,Negative,High,Accepted,2,POE2412292
+SCI,2024-06-15,AlBe Publishing,Typesetting,Index,External,Negative,High,Rejected,2,SCI2406152
+THR,2024-03-26,AlBe Publishing,Binding,Index,External,Negative,Low,Addressed,4,THR2403264
+SCI,2024-09-12,Epsilon Ltd.,Typesetting,Back Cover,External,Negative,Low,Revised,4,SCI2409124
+ROM,2024-06-25,Beta Books,Manuscript,Index,Internal,Negative,High,Pending,3,ROM2406253
+ROM,2024-01-20,alpha press,Typesetting,Index,External,Negative,High,Revised,3,ROM2401203
+POE,2023-11-15,Thomson Press,Printing,Illustrations,External,Negative,Medium,Rejected,2,POE2311152
+ROM,2024-12-04,Alpha Press,Typesetting,Reference Section,Internal,Negative,High,Accepted,3,ROM2412043
+ROM,2023-07-27,Thomson Press,Proofreading,Reference Section,Internal,Negative,Low,Pending,1,ROM2307271
+HIS,2023-05-02,Thomson Press,Proofreading,Reference Section,External,Negative,High,Revised,5,HIS2305025
+COM,2024-10-27,Beta Books,Printing,Front Cover,Internal,Negative,Medium,Accepted,2,COM2410272
+COM,2024-06-03,AlBe Publishing,Proofreading,Illustrations,Internal,Negative,High,Accepted,3,COM2406033
+FIC,2023-07-10,Thomson Press,Manuscript,Body Text,External,Negative,Medium,Accepted,2,FIC2307102
+COM,2024-07-14,Thomson Press,Manuscript,Front Cover,External,Negative,High,Revised,5,COM2407145
+HIS,2024-02-22,Beta Books,Proofreading,Index,Internal,Negative,Low,Rejected,5,HIS2402225
+HIS,2023-05-19,alpha press,Typesetting,Front Cover,External,Negative,High,Pending,4,HIS2305194
+POE,2023-08-20,Gamma Publishing,Printing,Body Text,External,Negative,Low,Rejected,4,POE2308204
+BIO,2024-01-19,AlBe Publishing,Proofreading,Illustrations,Internal,Negative,Medium,Rejected,3,BIO2401193
+COM,2024-08-30,Beta Books,Proofreading,Index,Internal,Negative,Medium,Rejected,3,COM2408303
+COM,2024-10-05,alpha press,Typesetting,Index,External,Negative,High,Addressed,3,COM2410053
+SCI,2024-09-21,alpha press,Proofreading,Body Text,External,Negative,Low,,2,SCI2409212
+THR,2023-11-30,Alpha Press,Proofreading,Index,Internal,Negative,Low,Pending,2,THR2311302
+BIO,2023-11-24,Thomson Press,Manuscript,Body Text,Internal,Negative,Low,Rejected,2,BIO2311242
+HIS,2024-09-07,Beta Books,Typesetting,Index,External,Negative,Low,Revised,3,HIS2409073
+SCI,2023-06-22,Beta books,Typesetting,Back Cover,Internal,Negative,High,Pending,2,SCI2306222
+POE,2024-11-15,Gamma Publishing,Typesetting,Back Cover,Internal,Negative,High,Rejected,1,POE2411151
+THR,2023-11-10,AlBe Publishing,Manuscript,Front Cover,Internal,Negative,Medium,Pending,3,THR2311103
+HIS,2024-02-14,Epsilon Ltd.,Printing,Body Text,External,Negative,High,Accepted,2,HIS2402142
+FIC,2023-01-03,Thomson Press,Manuscript,Index,Internal,Negative,Medium,Accepted,3,FIC2301033
+SCI,2023-05-29,Gamma Publishing,Manuscript,Index,Internal,Negative,High,Addressed,3,SCI2305293
+HIS,2024-04-22,alpha press,Printing,Reference Section,Internal,Negative,Low,Accepted,1,HIS2404221
+COM,2023-09-20,Epsilon Ltd.,Binding,Index,Internal,Negative,High,Accepted,3,COM2309203
+ROM,2024-03-22,Beta books,Binding,Back Cover,External,Negative,High,Pending,4,ROM2403224
+HIS,2024-11-11,alpha press,Manuscript,Body Text,Internal,Negative,Medium,Revised,3,HIS2411113
+COM,2023-04-28,Beta Books,Printing,Index,External,Negative,Low,Accepted,4,COM2304284
+ROM,2023-05-24,Thomson Press,Typesetting,Illustrations,Internal,Negative,Medium,Pending,3,ROM2305243
+HIS,2023-02-11,Gamma Publishing,Manuscript,Front Cover,External,Negative,High,Accepted,4,HIS2302114
+HIS,2024-06-11,Beta books,Proofreading,Back Cover,Internal,Negative,Low,Revised,2,HIS2406112
+COM,2024-01-04,Beta books,Printing,Front Cover,External,Negative,Medium,Addressed,4,COM2401044
+SCI,2023-06-18,alpha press,Binding,Front Cover,Internal,Negative,High,Addressed,3,SCI2306183
+POE,2023-01-23,Gamma Publishing,Proofreading,Illustrations,External,Negative,Medium,Revised,2,POE2301232
+THR,2024-04-02,AlBe Publishing,Proofreading,Reference Section,External,Negative,Low,Rejected,2,THR2404022
+SCI,2023-07-14,Epsilon Ltd.,Printing,Front Cover,Internal,Negative,Medium,Addressed,2,SCI2307142
+SCI,2024-06-08,Delta Inc.,Printing,Index,External,Negative,High,,2,SCI2406082
+THR,2023-01-19,AlBe Publishing,Proofreading,Illustrations,Internal,Negative,High,Revised,3,THR2301193
+SCI,2023-01-09,Alpha Press,Proofreading,Body Text,Internal,Negative,Low,Addressed,3,SCI2301093
+ROM,2023-10-12,Delta Inc.,Printing,Back Cover,External,Negative,High,Addressed,4,ROM2310124
+ROM,2024-10-02,Epsilon Ltd.,Printing,Reference Section,External,Negative,High,Addressed,4,ROM2410024
+SCI,2024-01-06,Beta books,Proofreading,Back Cover,Internal,Negative,High,Pending,2,SCI2401062
+THR,2023-09-17,Gamma Publishing,Proofreading,Front Cover,Internal,Negative,Medium,Revised,4,THR2309174
+BIO,2024-05-18,Delta Inc.,Proofreading,Front Cover,External,Negative,Low,Rejected,1,BIO2405181
+COM,2023-10-23,alpha press,Typesetting,Reference Section,External,Negative,Medium,Addressed,4,COM2310234
+THR,2024-07-30,Epsilon Ltd.,Proofreading,Front Cover,Internal,Negative,High,Pending,1,THR2407301
+FIC,2024-03-26,Beta books,Typesetting,Reference Section,External,Negative,High,Addressed,5,FIC2403265
+HIS,2024-11-05,Beta books,Typesetting,Back Cover,Internal,Negative,High,Rejected,1,HIS2411051
+SCI,2023-10-01,Alpha Press,Proofreading,Reference Section,Internal,Negative,High,Rejected,1,SCI2310011
+THR,2024-09-19,Alpha Press,Typesetting,Illustrations,External,Negative,High,Addressed,3,THR2409193
+SCI,2023-02-01,Beta Books,Printing,Back Cover,External,Negative,High,Revised,2,SCI2302012
+ROM,2024-02-14,alpha press,Binding,front cover,External,Negative,High,Addressed,3,ROM2402143
+POE,2023-05-09,Beta Books,Proofreading,Illustrations,External,Negative,Low,Accepted,2,POE2305092
+POE,2023-04-06,alpha press,Typesetting,Body Text,External,Negative,Low,Accepted,1,POE2304061
+FIC,2024-01-23,alpha press,Printing,Index,External,Negative,Low,Addressed,2,FIC2401232
+SCI,2024-06-05,AlBe Publishing,Printing,Index,Internal,Negative,High,Accepted,2,SCI2406052
+BIO,2024-12-13,Alpha Press,Manuscript,Back Cover,Internal,Negative,Low,Rejected,2,BIO2412132
+POE,2023-01-07,Gamma Publishing,Manuscript,Back Cover,External,Negative,High,Addressed,2,POE2301072
+THR,2024-02-16,Epsilon Ltd.,Binding,Body Text,Internal,Negative,Low,Rejected,1,THR2402161
+POE,2024-04-20,Beta books,Proofreading,Illustrations,External,Negative,Medium,Accepted,2,POE2404202
+THR,2023-05-12,Delta Inc.,Manuscript,Body Text,Internal,Negative,Medium,Accepted,4,THR2305124
+THR,2024-07-31,AlBe Publishing,Binding,Front Cover,Internal,Negative,Medium,Rejected,2,THR2407312
+BIO,2023-07-16,Delta Inc.,Binding,Reference Section,Internal,Negative,High,,3,BIO2307163
+THR,2020-01-01,Thomson Press,Proofreading,Index,External,Negative,High,Revised,2,THR2304092
+SCI,2024-01-18,Beta books,Printing,Back Cover,External,Negative,Low,Pending,1,SCI2401181
+POE,2024-10-09,Thomson Press,Printing,Reference Section,Internal,Negative,Low,Pending,4,POE2410094
+POE,2023-03-26,Gamma Publishing,Binding,Illustrations,External,Negative,Low,Pending,6,POE2303266
+BIO,2023-07-31,Beta books,Printing,Illustrations,External,Negative,High,Pending,3,BIO2307313
+COM,2023-09-16,alpha press,Manuscript,Index,Internal,Negative,Low,,1,COM2309161
+ROM,2023-04-21,Thomson Press,Proofreading,Index,Internal,Negative,Medium,Accepted,1,ROM2304211
+SCI,2024-03-21,Thomson Press,Printing,Index,Internal,Negative,Medium,Accepted,1,SCI2403211
+SCI,2024-01-06,Beta books,Proofreading,Reference Section,Internal,Negative,Medium,Pending,3,SCI2401063
+FIC,2024-08-17,Epsilon Ltd.,Proofreading,Reference Section,External,Positive,Medium,Pending,1,FIC2408171
+BIO,2024-12-10,Beta Books,Proofreading,Index,Internal,Negative,High,Rejected,2,BIO2412102
+COM,2024-03-31,Alpha Press,Printing,Index,Internal,Negative,Low,Rejected,3,COM2403313
+HIS,2023-11-07,Gamma Publishing,Proofreading,Front Cover,Internal,Negative,High,Pending,2,HIS2311072
+THR,2023-12-20,AlBe Publishing,Proofreading,Body Text,Internal,Negative,Medium,,4,THR2312204
+SCI,2023-04-24,Delta Inc.,Proofreading,Reference Section,External,Negative,Medium,Pending,1,SCI2304241
+SCI,2024-01-11,Gamma Publishing,Proofreading,Back Cover,Internal,Negative,Low,Revised,5,SCI2401115
+THR,2023-02-07,Alpha Press,Binding,Index,External,Negative,High,Revised,4,THR2302074
+ROM,2023-04-26,Thomson Press,Proofreading,Index,External,Negative,High,Addressed,2,ROM2304262
+COM,2024-06-03,Delta Inc.,Typesetting,Illustrations,Internal,Negative,High,Addressed,4,COM2406034
+HIS,2024-07-01,Gamma Publishing,Binding,Back Cover,External,Negative,High,Addressed,1,HIS2407011
+FIC,2024-12-03,Thomson Press,Proofreading,Index,Internal,Negative,Medium,Pending,3,FIC2412033
+BIO,2023-05-08,alpha press,Binding,Index,Internal,Negative,High,Revised,2,BIO2305082
+HIS,2024-09-06,Alpha Press,Proofreading,Illustrations,Internal,Negative,Medium,Revised,3,HIS2409063
+THR,2023-06-08,Epsilon Ltd.,Typesetting,Index,External,Negative,Low,Pending,5,THR2306085
+POE,2023-07-20,Epsilon Ltd.,Proofreading,Reference Section,Internal,Negative,High,Accepted,4,POE2307204
+COM,2024-01-28,alpha press,Binding,Body Text,External,Negative,Medium,Addressed,5,COM2401285
+THR,2024-02-14,Thomson Press,Printing,Body Text,Internal,Negative,High,Revised,4,THR2402144
+POE,2023-11-22,Delta Inc.,Binding,Front Cover,External,Negative,Low,Accepted,2,POE2311222
+POE,2024-11-28,Thomson Press,Manuscript,Index,Internal,Negative,Medium,Revised,1,POE2411281
+THR,2023-07-13,Beta books,Manuscript,Body Text,External,Negative,Low,Rejected,4,THR2307134
+THR,2023-12-16,alpha press,Proofreading,Illustrations,Internal,Negative,Low,Rejected,4,THR2312164
+BIO,2023-04-25,Alpha Press,Manuscript,Index,External,Negative,Medium,Addressed,2,BIO2304252
+HIS,2024-08-18,Epsilon Ltd.,Typesetting,Back Cover,Internal,Negative,Low,Addressed,1,HIS2408181
+SCI,2023-10-20,Delta Inc.,Proofreading,Reference Section,External,Negative,Medium,Pending,3,SCI2310203
+POE,2023-01-02,Epsilon Ltd.,Manuscript,Body Text,Internal,Negative,Medium,Rejected,5,POE2301025
+BIO,2024-09-14,Alpha Press,Binding,Index,External,Negative,Medium,Accepted,2,BIO2409142
+THR,2024-01-16,alpha press,Manuscript,Back Cover,Internal,Negative,Low,Pending,2,THR2401162
+ROM,2024-03-25,AlBe Publishing,Printing,front cover,External,Negative,Low,Addressed,1,ROM2403251
+HIS,2024-05-25,Thomson Press,Typesetting,Front Cover,External,Negative,High,Revised,2,HIS2405252
+THR,2023-03-02,Thomson Press,Printing,Back Cover,Internal,Negative,High,Accepted,4,THR2303024
+POE,2023-11-22,Delta Inc.,Binding,Front Cover,External,Negative,Low,Accepted,2,POE2311222
+POE,2023-01-07,Gamma Publishing,Manuscript,Back Cover,External,Negative,High,Addressed,2,POE2301072
+BIO,2024-07-16,AlBe Publishing,Proofreading,Index,Internal,Negative,Medium,Pending,1,BIO2407161
+COM,2023-12-16,Thomson Press,Printing,Body Text,Internal,Positive,Low,Addressed,1,COM2312161
+FIC,2024-10-17,Epsilon Ltd.,Typesetting,Body Text,Internal,Negative,Medium,Revised,1,FIC2410171
+ROM,2023-05-09,AlBe Publishing,Binding,Illustrations,External,Negative,High,Addressed,1,ROM2305091
+POE,2023-04-03,Alpha Press,Printing,Body Text,Internal,Negative,Medium,Rejected,1,POE2304031
